@@ -1,0 +1,65 @@
+@media screen {
+
+	section {
+		background-color: #5f6985;
+		width: 100%;
+		height: 100%;
+		margin: auto;
+		margin-top: 40px;
+		display: block;
+	}
+
+	.devlpr-name {
+    	align-items: center;
+    	margin: auto;
+    	width: 350px;
+    }
+
+    .main{
+    	width: 310px;
+    	height: 280px;
+    	background-color: #fefdf4;
+    	margin: 10px auto 30px auto;
+    	padding:20px;
+
+    }
+    .side-div{
+    	width: 310px;
+    	height: 280px;
+    	background-color: #fefdf4;
+    	margin: 10px auto 30px auto;
+    	padding: 20px;
+    }
+
+    .main1{
+    	width: 310px;
+    	height: 280px;
+    	background-color: #fefdf4;
+    	margin: 10px auto 30px auto;
+    }
+    .main-img{
+    	width: 100%;
+    	height: 100%;
+    }
+    img{
+    	width: 100%;
+    	height: 70%;
+    }
+    .p-margin{
+    	margin: 20px;
+    }
+    .line{
+    	width: 280px;
+    	height: 5px;
+    	background-color: #fbebf9;
+    	margin: 10px auto 30px auto;
+
+    }
+
+    #pge-footer{
+    	width: 100%;
+    	height: 150px;
+    	background-color: black;
+    	text-align: bottom;
+    }
+}
