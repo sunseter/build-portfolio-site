@@ -1,36 +1,10 @@
 @media screen {
 
-	html, 
-body {
-    height: 100%;
-}
-	
-	.side-div{
-    	float: right;
-    	width: 50%;
-    	display: block;
-    	 box-shadow: -6px -5px 20px 1px black;
-	}
-	.main1{
-		float: right;
-		width: 50%;
-	}
-	.main-part{
-		height: 800px;
-	}
-	
-	.pge-footer{
-		text-shadow: -12px -8px 90px black;
-		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
-	}
+	img,a,p{
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
 
-	p{
-		box-shadow: -13px -4px 320px 1px black;
-		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
-	}
 
 }
